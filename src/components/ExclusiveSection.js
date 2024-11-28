@@ -9,11 +9,13 @@ export default function ExclusiveSection() {
       <div className="page-inner-content">
         <div className="content">
           <div className="left-side">
-            <h2>Smart Band 4</h2>
+            <h2>Fio Dental Plus Roxo Neon</h2>
             <p>
-              O Mi Smart Band 4 tem uma tela AMOLED 39.9% maior que o Mi Band 3,
-              tela completamente digital com brilho ajustável, de tal modo que
-              tudo é claro ao máximo
+            Arrase na praia com o nosso Biquíni Plus Size Exclusivo Roxo Neon, uma peça vibrante que combina estilo, conforto e confiança. Com um tom incrível de roxo neon, este biquíni foi desenhado especialmente para valorizar todas as curvas, proporcionando um caimento perfeito e destacando sua beleza natural.
+
+O top possui alças ajustáveis para maior conforto, e o soutien com bojo estruturado garante suporte e segurança durante todo o uso. A calcinha de cintura média é super confortável, com acabamento liso e sem costura, proporcionando um visual elegante e sem marcação.
+
+
             </p>
             <Link to="/products" className="see-more-btn">
               <span>Ver Agora</span>

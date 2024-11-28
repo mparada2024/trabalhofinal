@@ -16,11 +16,11 @@ export default function Footer() {
 
         <div className="logo-footer">
           <h1 className="logo">
-            ROCK<span>STORE</span>
+            GAROTA<span> MODA PRAIA</span>
           </h1>
           <p>
-            Nosso objectivo é ajudar pessoas comuns a se tornarem
-            Desenvolvedores Web Pro Max
+          O verão começa aqui, com estilo Garota Moda Praia.
+      
           </p>
         </div>
 
@@ -46,7 +46,7 @@ export default function Footer() {
         <hr />
 
         <p className="copyright">
-          Copyright 2030 - Uanela Como - Todos Direitos Reservados
+          Copyright 2024 - Garota Moda Praia - Todos Direitos Reservados
         </p>
       </div>
     </footer>

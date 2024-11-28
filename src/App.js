@@ -7,6 +7,7 @@ import ProductsPage from "./components/pages/ProductsPage";
 import SidebarCart from "./components/SidebarCart";
 import Contato from "./components/pages/Contato";
 import Sobre from "./components/pages/Sobre";
+import Register from "./components/Register";
 
 
 
@@ -91,6 +92,12 @@ function App() {
               path="/sobre"
               element={
                 <Sobre />
+              }
+            />
+            <Route
+              path="/registro"
+              element={
+                <Register />
               }
             />
             <Route

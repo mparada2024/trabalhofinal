@@ -17,7 +17,7 @@ export default function Product({
       <p className="name">{name}</p>
       <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
       <p className="price">
-        {price} <span>Mzn</span>
+        {price} <span>R$</span>
       </p>
 
       <div className="buttons">

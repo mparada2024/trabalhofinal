@@ -10,9 +10,7 @@ export default function Header() {
         <div className="left-side">
           <h2>Aqui você sempre Linda!</h2>
           <p>
-            Sucesso nem sempre tem haver com grandeza. Tem haver com
-            consistência. Trabalho duro consistente supera o sucesso.A grandeza
-            virá.
+          A missão do Garota Moda Praia é proporcionar uma experiência de compra única, com produtos de alta qualidade, que atendem a todos os tipos de corpo. Cada coleção é pensada para oferecer conforto e versatilidade, sem abrir mão da sofisticação e das últimas tendências. O site conta com uma navegação fácil e segura, além de um atendimento ao cliente ágil e personalizado.
           </p>
           <Link to="/products" className="see-more-btn">
             <span>Ver Agora</span>

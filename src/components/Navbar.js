@@ -31,7 +31,7 @@ export default function Navbar({ setShowSidebarCart, selectedProducts }) {
               <Link to="/contato">Contato</Link>
             </li>
             <li>
-              <Link to="/account">Conta</Link>
+              <Link to="/registro">Cadastro</Link>
             </li>
           </ul>
         </nav>
